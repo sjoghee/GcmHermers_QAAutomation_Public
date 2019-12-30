@@ -1,0 +1,12 @@
+C:\Hermes\Hermes_Automation\Hermes_Automation\bin\Debug\IEDriverServer-license.txt
+C:\Hermes\Hermes_Automation\Hermes_Automation\bin\Debug\IEDriverServer.exe
+C:\Hermes\Hermes_Automation\Hermes_Automation\bin\Debug\Hermes_Automation.dll.config
+C:\Hermes\Hermes_Automation\Hermes_Automation\bin\Debug\Hermes_Automation.dll
+C:\Hermes\Hermes_Automation\Hermes_Automation\bin\Debug\Hermes_Automation.pdb
+C:\Hermes\Hermes_Automation\Hermes_Automation\bin\Debug\WebDriver.dll
+C:\Hermes\Hermes_Automation\Hermes_Automation\bin\Debug\WebDriver.Support.dll
+C:\Hermes\Hermes_Automation\Hermes_Automation\bin\Debug\WebDriver.xml
+C:\Hermes\Hermes_Automation\Hermes_Automation\bin\Debug\WebDriver.Support.xml
+C:\Hermes\Hermes_Automation\Hermes_Automation\obj\Debug\Hermes_Automation.dll
+C:\Hermes\Hermes_Automation\Hermes_Automation\obj\Debug\Hermes_Automation.pdb
+C:\Hermes\Hermes_Automation\Hermes_Automation\obj\Debug\Hermes_Automation.csprojResolveAssemblyReference.cache
